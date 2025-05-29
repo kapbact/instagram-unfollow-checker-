@@ -29,4 +29,4 @@ Use Terminal or PowerShell to run it
 
 ## 📡 Stay Connected
 🎧>>Feel free to check out my music projects here:  
-🎶 [SoundCloud - kapbact](https://soundcloud.com/kapbact)
+🎶>>>[SoundCloud - kapbact](https://soundcloud.com/kapbact)
